@@ -1,4 +1,4 @@
-# PUCPR Health Informatics - Explainable AI (xAI)
+# PUCPR Health Informatics - Explainable AI (XAI)
 
 Um projeto educacional sobre **Inteligência Artificial Explicável** aplicada a problemas de saúde, desenvolvido na Pontifícia Universidade Católica do Paraná.
 
